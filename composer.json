@@ -1,5 +1,5 @@
 {
-    "name": "devio/wpcli",
+    "name": "devio-utils/wpcli",
     "description": "A WP-CLI command to check ABSPATH, autoloaded options, cron jobs, and WooCommerce failed orders.",
     "type": "library",
     "require": {
